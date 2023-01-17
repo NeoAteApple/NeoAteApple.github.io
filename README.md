@@ -1,7 +1,7 @@
 ### R I C K A S T L E Y
-![image](https://user-images.githubusercontent.com/122416221/211979278-04055850-a844-4d5b-a620-52fe65f6f15c.png) ![image](https://user-images.githubusercontent.com/122416221/211980298-d6d9a038-f3f0-49fb-b5c3-462f6a81f59c.png)
+![image](https://user-images.githubusercontent.com/122416221/211979278-04055850-a844-4d5b-a620-52fe65f6f15c.png) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/58lV9VcRSjABbAbfWS6skp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Never Gonna Give You Up
 
