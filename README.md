@@ -1,5 +1,6 @@
 ### R I C K A S T L E Y
-![image](https://user-images.githubusercontent.com/122416221/211979278-04055850-a844-4d5b-a620-52fe65f6f15c.png) 
+![image](https://user-images.githubusercontent.com/122416221/212785282-6924b4e2-9c91-46d3-bd25-67e34146257c.png)
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/58lV9VcRSjABbAbfWS6skp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
